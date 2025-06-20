@@ -44,12 +44,4 @@ outputs/        # Generated predictions
 
 ---
 
-## Highlights
-
-- Fully automated multi-agent workflow
-- Uses DeepSeek API instead of OpenAI
-- 80% direction accuracy on test set
-- Modular and easy to extend
-
----
 
