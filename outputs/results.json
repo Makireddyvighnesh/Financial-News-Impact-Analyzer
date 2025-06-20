@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": "FIN-001",
+    "tickers": [
+      "TSLA"
+    ],
+    "events": [
+      "earnings_report"
+    ],
+    "sentiment": "Positive",
+    "sentiment_score": 0.85,
+    "prediction": {
+      "TSLA": {
+        "direction": "up",
+        "change_pct": 4.2
+      }
+    },
+    "confidence": 88.0
+  },
+  {
+    "article_id": "FIN-002",
+    "tickers": [
+      "CURE"
+    ],
+    "events": [
+      "fda_approval",
+      "analyst_caution"
+    ],
+    "sentiment": "Positive",
+    "sentiment_score": 0.92,
+    "prediction": {
+      "CURE": {
+        "direction": "up",
+        "change_pct": 4.2
+      }
+    },
+    "confidence": 85.0
+  },
+  {
+    "article_id": "FIN-003",
+    "tickers": [
+      "AMZN"
+    ],
+    "events": [
+      "investment_announcement"
+    ],
+    "sentiment": "Mixed",
+    "sentiment_score": 0.65,
+    "prediction": {
+      "AMZN": {
+        "direction": "neutral",
+        "change_pct": 0.5
+      }
+    },
+    "confidence": 65.0
+  },
+  {
+    "article_id": "FIN-004",
+    "tickers": [
+      "FSB"
+    ],
+    "events": [
+      "earnings_report"
+    ],
+    "sentiment": "Positive",
+    "sentiment_score": 0.92,
+    "prediction": {
+      "FSB": {
+        "direction": "up",
+        "change_pct": 2.8
+      }
+    },
+    "confidence": 88.0
+  },
+  {
+    "article_id": "FIN-005",
+    "tickers": [],
+    "events": [
+      "earnings_report",
+      "regulatory_concern"
+    ],
+    "sentiment": "Positive",
+    "sentiment_score": 0.85,
+    "prediction": {
+      "overall": {
+        "direction": "up",
+        "change_pct": 2.0
+      }
+    },
+    "confidence": 85.0
+  }
+]
